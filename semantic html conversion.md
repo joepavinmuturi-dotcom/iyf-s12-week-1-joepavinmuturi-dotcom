@@ -1,0 +1,22 @@
+<header>
+    <h1>My Site</h1>
+    <nav>
+    <ul>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+<main>
+    <article>
+        <h2>Welcome to My Site</h2>
+        <p>This is my first paragraph...</p>
+        <p>This is my second paragraph...</p>
+    </article>
+    <aside>
+        <h2>Recent Posts</h2>
+    </aside>
+</main>
+<footer>
+    <p>© 2026</p>
+</footer>
