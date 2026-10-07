@@ -17,11 +17,6 @@ This is my profile project. It contains :
 - HTML5
 - CSS3
 
-## Features
-- Fea
-- Feature 2
-- Feature 3
-
 ## How to Run
 1. Clone this repository
 2. Open `index.html` in your browser
